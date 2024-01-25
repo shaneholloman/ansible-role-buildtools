@@ -38,13 +38,6 @@ Also see a [full explanation and example](https://shaneholloman.com/how-to-use-t
 
 - pip packages listed in [requirements.txt](https://github.com/shaneholloman/ansible-role-buildtools/blob/main/requirements.txt).
 
-## Context
-
-This role is a part of many compatible roles. Have a look at [the documentation of these roles](https://shaneholloman.com/) for further information.
-
-Here is an overview of related roles:
-![dependencies](https://raw.githubusercontent.com/shaneholloman/ansible-role-buildtools/png/requirements.png "Dependencies")
-
 ## Compatibility
 
 This role has been tested on these [container images](https://hub.docker.com/u/shaneholloman):
