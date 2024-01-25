@@ -36,7 +36,7 @@ Also see a [full explanation and example](https://shaneholloman.com/how-to-use-t
 
 ## Requirements
 
-- pip packages listed in [requirements.txt](https://github.com/shaneholloman/ansible-role-buildtools/blob/main/requirements.txt).
+None.
 
 ## Compatibility
 
@@ -52,8 +52,8 @@ If you find issues, please register them in [GitHub](https://github.com/shanehol
 
 ## License
 
-[Apache-2.0](https://github.com/shaneholloman/ansible-role-buildtools/blob/main/LICENSE).
+Unlicense
 
 ## Author Information
 
-[shaneholloman](https://shaneholloman.com/)
+Shane Holloman
