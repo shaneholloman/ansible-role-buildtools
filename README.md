@@ -1,8 +1,8 @@
 # Ansible Role: `buildtools`
 
-Install buildtools on your system.
+[![CI](https://github.com/shaneholloman/ansible-role-buildtools/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-buildtools/actions/workflows/ci.yml)
 
-      <!-- BADGE_PLACEHOLDER -->
+Install buildtools on your system.
 
 ## Example Playbook
 

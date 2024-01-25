@@ -65,7 +65,7 @@ done
 
 # Tag and push after setting the secrets
 commitMessage="Initial commit"
-tagVersion="2.0.0"
+tagVersion="2.1.0"
 tagMessage="Initial release version to match align with our catalog"
 
 git commit --allow-empty -m "$commitMessage"
